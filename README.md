@@ -12,7 +12,7 @@ I have worked as software engineer at Accenture and Infosys for over 3 years. I 
 
 ## Resume and current work
 
-Find my resume with details of my project [here](https://drive.google.com/file/d/192sfe4r_xP5JVw2-ns22hC_vT7PJv1O_/view?usp=sharing). I’m currently contributing to Red Hat's open source subscription management product - [candlepin](https://www.candlepinproject.org/docs/candlepin/overview.html). My role involves migrating the existing dependency injection framework - [Google guice](https://github.com/google/guice) to [Spring Boot](https://spring.io/projects/spring-boot). 
+Find my resume [here](https://drive.google.com/file/d/192sfe4r_xP5JVw2-ns22hC_vT7PJv1O_/view?usp=sharing). I’m currently contributing to Red Hat's open source subscription management product - [candlepin](https://www.candlepinproject.org/docs/candlepin/overview.html). My role involves migrating the existing dependency injection framework - [Google guice](https://github.com/google/guice) to [Spring Boot](https://spring.io/projects/spring-boot). 
 The repository can be found [here](https://github.com/AmitMandliya/candlepin/tree/feature/spring_integration).
 
 
