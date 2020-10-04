@@ -18,9 +18,10 @@ I am fortunate to work on multiple interesting projects in my graduate studies u
 
 - [TouchDown](https://github.com/himol7/American-Football-Analytics-Application) A web application which analyze NC State's football match data and whow the summary visuals of the analysis. This is expected to save the football coaches 50 hours per year. The technologies used in the project were: **Flask, Python, Vue, JavaScript**.
 
-- [Team Formation Assisstant](https://github.com/AmitMandliya/TeamFormationAssistant) Build a web application which takes the project requirements, team members availability, skill level, tools preferred, etc. as input and assigns the members for the new team. This project is in final phase. 
 
 - [Movie ratings prediction](https://github.com/AmitMandliya/movie-rating-prediction) system: Developed a ratings prediction system by fetching data from open movie database and combining it with Netflix data. Selected KNN as baseline model and used stacking regression to build a model with ridge regressor, random forest regressor, and support vector regressor as estimators. The model was able to successfully predict the ratings of the movie [70%](https://github.com/AmitMandliya/movie-rating-prediction/blob/master/ALDA_Final_Project_Report.pdf) of the time with the error range of 0.8. The project was built in **Python**.
+
+- [Team Formation Assisstant](https://github.com/AmitMandliya/TeamFormationAssistant) Build a web application which takes the project requirements, team members availability, skill level, tools preferred, etc. as input and assigns the members for the new team. The technologies used are: **Node.js, Python, flask, React** This project is in final phase. 
 
 - Wolfpub database: Designed a management system in MariaDB for Wolf publishing house to store, manipulate, and search books by staff members and distributors. Created an application in **Java** using **Hibernate** to perform the operations.
 
