@@ -2,7 +2,11 @@
 
 Hey there <img src="https://github.com/AmitMandliya/AmitMandliya/blob/main/wave.gif" width="20px">
 
-My name is Amit Mandliya and I am a software developer. I am pursuing master's in computer science at North Carolina State University, Raleigh, USA. I have a passion for backend development. I have worked in several languages like Java, Python, Julia, Ruby and R. You can find me on [![LinkedIn][1.1]][1], or email me at amitmandliya.davviet@gmail.com [<img src="gmail.png" width="15">][2]. 
+My name is Amit Mandliya and I am a software developer. I am pursuing master's in computer science at North Carolina State University, Raleigh, USA. I have a passion for backend development. I have worked in several languages like Java, Python, Julia, Ruby and R.
+
+## 📫 How to reach me:
+
+You can find me on [![LinkedIn][1.1]][1], or email me at amitmandliya.davviet@gmail.com [<img src="gmail.png" width="15">][2]. 
 
 ## 💻 Work experience
 
