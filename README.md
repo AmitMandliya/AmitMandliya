@@ -24,7 +24,7 @@ I am fortunate to work on multiple interesting projects in my graduate studies u
 
 - [Movie ratings prediction](https://github.com/AmitMandliya/movie-rating-prediction) system: Developed a ratings prediction system by fetching data from open movie database and combining it with Netflix data. Selected KNN as baseline model and used stacking regression to build a model with ridge regressor, random forest regressor, and support vector regressor as estimators. The model was able to successfully predict the ratings of the movie [70%](https://github.com/AmitMandliya/movie-rating-prediction/blob/master/ALDA_Final_Project_Report.pdf) of the time with the error range of 0.8. The project was built in **Python**.
 
-- [Team Formation Assisstant](https://github.com/AmitMandliya/TeamFormationAssistant) We are currently working on building a web application which takes the project requirements, team members availability, skill level, tools preferred, etc. as input and assigns the members for the new team. The technologies used are: **Node.js, Python, flask, React**. 
+- [Team Formation Assisstant](https://github.com/AmitMandliya/TeamFormationAssistant) We are currently working on building a web application which takes the project requirements, team members availability, skill level, tools preferred, etc. as input and assigns the members for the new team. The technologies used are: **Node.js, Python, Flask, React**. 
 
 - Wolfpub database: Designed a management system in MariaDB for Wolf publishing house to store, manipulate, and search books by staff members and distributors. Created an application in **Java** using **Hibernate** to perform the operations.
 
