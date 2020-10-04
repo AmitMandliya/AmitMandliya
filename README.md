@@ -1,6 +1,6 @@
 ![Header](https://github.com/AmitMandliya/AmitMandliya/blob/main/banner.png "Header")
 
-Hey there 👋
+Hey there <img src="https://github.com/AmitMandliya/AmitMandliya/blob/main/wave.gif" width="20px">
 
 My name is Amit Mandliya and I am a software developer. I am pursuing master's in computer science at North Carolina State University, Raleigh, USA. I have a passion for backend development. I have worked in several languages like Java, Python, Julia, Ruby and R. You can find me on Twitter, or on LinkedIn.
 
