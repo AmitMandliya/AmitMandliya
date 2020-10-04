@@ -6,7 +6,7 @@ My name is Amit Mandliya and I am a software developer. I am pursuing master's i
 
 ## 💻 Work experience
 
-I have worked as software engineer at Accenture and Infosys for over 3 years. I was a part of enterprise content management team. My role involved creating custom Java application that can interact with [OpenText products](https://www.opentext.com/products-and-solutions/products/customer-experience-management). I have worked in utilities industry clients based in North America and Netherlands. My role involved gathering requirements from client, develop and deploy the system into production with CI/CD tools.
+I have worked as software engineer at Accenture and Infosys for over 3 years. I was a part of enterprise content management team. My role involved creating custom **Java** application that can interact with [OpenText products](https://www.opentext.com/products-and-solutions/products/customer-experience-management). I have worked in utilities industry clients based in North America and Netherlands. My role involved gathering requirements from client, develop and deploy the system into production with CI/CD tools.
 
 ## 🔭 Resume and current work
 
@@ -20,9 +20,11 @@ I am fortunate to work on multiple interesting projects in my graduate studies u
 
 - [Team Formation Assisstant](https://github.com/AmitMandliya/TeamFormationAssistant) Build a web application which takes the project requirements, team members availability, skill level, tools preferred, etc. as input and assigns the members for the new team. This project is in final phase. 
 
-- [Movie ratings prediction](https://github.com/AmitMandliya/movie-rating-prediction) system: Developed a ratings prediction system by fetching data from open movie database and combining it with Netflix data. Selected KNN as baseline model and used stacking regression to build a model with ridge regressor, random forest regressor, and support vector regressor as estimators. The model was able to successfully predict the ratings of the movie [70%](https://github.com/AmitMandliya/movie-rating-prediction/blob/master/ALDA_Final_Project_Report.pdf) of the time with the error range of 0.8.
+- [Movie ratings prediction](https://github.com/AmitMandliya/movie-rating-prediction) system: Developed a ratings prediction system by fetching data from open movie database and combining it with Netflix data. Selected KNN as baseline model and used stacking regression to build a model with ridge regressor, random forest regressor, and support vector regressor as estimators. The model was able to successfully predict the ratings of the movie [70%](https://github.com/AmitMandliya/movie-rating-prediction/blob/master/ALDA_Final_Project_Report.pdf) of the time with the error range of 0.8. The project was built in **Python**.
 
-- Applying [nature-inspired](https://github.com/AmitMandliya/multiple-sequence-alignment/blob/master/CSC530%20Project%20Proposal.pdf) heuristic to optimize the algorithms to solve NP Hard problems have become popular recently. One such heuristic is ant colony optimization. We are currently working on implementing this algorithm in Julia to solve the [multiple sequence alignment](https://en.wikipedia.org/wiki/Multiple_sequence_alignment) problem. This problem has been an important one in molecular biology.
+- Wolfpub database: Designed a management system in MariaDB for Wolf publishing house to store, manipulate, and search books by staff members and distributors. Created an application in **Java** using **Hibernate** to perform the operations.
+
+- Applying [nature-inspired](https://github.com/AmitMandliya/multiple-sequence-alignment/blob/master/CSC530%20Project%20Proposal.pdf) heuristic to optimize the algorithms to solve NP Hard problems have become popular recently. One such heuristic is ant colony optimization. We are currently working on implementing this algorithm in **Julia** to solve the [multiple sequence alignment](https://en.wikipedia.org/wiki/Multiple_sequence_alignment) problem. This problem has been an important one in molecular biology.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
