@@ -2,9 +2,9 @@
 
 Hey there <img src="https://github.com/AmitMandliya/AmitMandliya/blob/main/wave.gif" width="20px">
 
-My name is Amit Mandliya and I am a software developer. I am pursuing master's in computer science at North Carolina State University, Raleigh, USA. I am currently working as software engineering intern at Red Hat. I have a passion for backend development. I have worked in several languages like Java, Python, Julia, Ruby and R.
+My name is Amit Mandliya and I am a software developer. I am pursuing master's in computer science at North Carolina State University, Raleigh, USA. I am currently working as software engineering intern at Red Hat. I have a passion for backend development. I have worked in several languages like Java, Python, Julia, Ruby and R. Find my resume [here](https://drive.google.com/file/d/192sfe4r_xP5JVw2-ns22hC_vT7PJv1O_/view?usp=sharing).
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
 You can find me on [![LinkedIn][1.1]][1], or email me at amitmandliya.davviet@<span></span>gmail.com [<img src="gmail.png" width="15">][2]. 
 
@@ -12,9 +12,9 @@ You can find me on [![LinkedIn][1.1]][1], or email me at amitmandliya.davviet@<s
 
 I have worked as software engineer at Accenture and Infosys for over 3 years. I was a part of enterprise content management team. My role involved creating custom **Java** application that can interact with [OpenText products](https://www.opentext.com/products-and-solutions/products/customer-experience-management). I have worked in utilities industry clients based in North America and Netherlands. My role involved gathering requirements from client, develop and deploy the system into production with CI/CD tools.
 
-## 🔭 Resume and current work
+## 🔭 Current work
 
-Find my resume [here](https://drive.google.com/file/d/192sfe4r_xP5JVw2-ns22hC_vT7PJv1O_/view?usp=sharing). I’m currently contributing to Red Hat's open source subscription management product - [candlepin](https://www.candlepinproject.org/docs/candlepin/overview.html). My role involves migrating the existing dependency injection framework - **Google guice** to **Spring Boot**. [Repository](https://github.com/AmitMandliya/candlepin/tree/feature/spring_integration).
+I’m currently contributing to Red Hat's open source subscription management product - [candlepin](https://www.candlepinproject.org/docs/candlepin/overview.html). My role involves migrating the existing dependency injection framework - **Google guice** to **Spring Boot**. [Repository](https://github.com/AmitMandliya/candlepin/tree/feature/spring_integration).
 
 ## 📚 Academic projects
 
