@@ -6,12 +6,18 @@ My name is Amit Mandliya and I am a software developer. I am pursuing master's i
 
 ## 💻 Work experience
 
-I have worked as software engineer at Accenture and Infosys for over 3 years. I was a part of enterprise content management team. My role involved creating custom Java application that can interact with [OpenText products](https://www.opentext.com/products-and-solutions/products/customer-experience-management). I have worked in utilities indusctry clients based in North America and Netherlands. My role involved gathering requirements from client, develop and deploy the system into production with CI/CD tools.
+I have worked as software engineer at Accenture and Infosys for over 3 years. I was a part of enterprise content management team. My role involved creating custom Java application that can interact with [OpenText products](https://www.opentext.com/products-and-solutions/products/customer-experience-management). I have worked in utilities industry clients based in North America and Netherlands. My role involved gathering requirements from client, develop and deploy the system into production with CI/CD tools.
 
 ## 🔭 Resume and current work
 
 Find my resume [here](https://drive.google.com/file/d/192sfe4r_xP5JVw2-ns22hC_vT7PJv1O_/view?usp=sharing). I’m currently contributing to Red Hat's open source subscription management product - [candlepin](https://www.candlepinproject.org/docs/candlepin/overview.html). My role involves migrating the existing dependency injection framework - [Google guice](https://github.com/google/guice) to [Spring Boot](https://spring.io/projects/spring-boot). 
 The repository can be found [here](https://github.com/AmitMandliya/candlepin/tree/feature/spring_integration).
+
+## Academic projects
+
+I am fortunate to work on multiple interesting projects in my graduate studies:
+
+- Applying [nature-inspired](https://link.springer.com/chapter/10.1007/978-3-030-16936-7_6) heuristic to optimize the algorithms to solve NP Hard problems have become popular recently. One such heuristic is ant colony optimization. We are currently working on implementing this algorithm in Julia to solve the [multiple sequence alignment](https://en.wikipedia.org/wiki/Multiple_sequence_alignment) problem. This problem has been an important one in molecular biology. The project proposal can be found [here](https://github.com/AmitMandliya/multiple-sequence-alignment/blob/master/CSC530%20Project%20Proposal.pdf) 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
