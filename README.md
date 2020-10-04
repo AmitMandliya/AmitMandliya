@@ -10,7 +10,7 @@ I have worked as software engineer at Accenture and Infosys for over 3 years. I 
 
 ## 🔭 Resume and current work
 
-Find my resume [here](https://drive.google.com/file/d/192sfe4r_xP5JVw2-ns22hC_vT7PJv1O_/view?usp=sharing){:target="_blank"}. I’m currently contributing to Red Hat's open source subscription management product - [candlepin](https://www.candlepinproject.org/docs/candlepin/overview.html). My role involves migrating the existing dependency injection framework - [Google guice](https://github.com/google/guice) to [Spring Boot](https://spring.io/projects/spring-boot). 
+Find my resume [here](https://drive.google.com/file/d/192sfe4r_xP5JVw2-ns22hC_vT7PJv1O_/view?usp=sharing). I’m currently contributing to Red Hat's open source subscription management product - [candlepin](https://www.candlepinproject.org/docs/candlepin/overview.html). My role involves migrating the existing dependency injection framework - [Google guice](https://github.com/google/guice) to [Spring Boot](https://spring.io/projects/spring-boot). 
 The repository can be found [here](https://github.com/AmitMandliya/candlepin/tree/feature/spring_integration).
 
 ## 🔧 Technologies & Tools
@@ -39,9 +39,6 @@ The repository can be found [here](https://github.com/AmitMandliya/candlepin/tre
 [2]: mailto:amitmandliya.davviet@gmail.com
 
 <!--
-**AmitMandliya/AmitMandliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
