@@ -6,7 +6,7 @@ My name is Amit Mandliya and I am a software developer. I am pursuing master's i
 
 ## 💻 Work experience
 
-I have worked as software engineer at Accenture and Infosys for over 3 years. I was a part of enterprise content management team. My role involved creating custom Java application that can interact with [OpenText products](https://www.opentext.com/products-and-solutions/products/customer-experience-management). 
+I have worked as software engineer at Accenture and Infosys for over 3 years. I was a part of enterprise content management team. My role involved creating custom Java application that can interact with [OpenText products](https://www.opentext.com/products-and-solutions/products/customer-experience-management). I have worked with clients from North America and Netherlands. My role involved gathering requirements from client, develop and deploy the system into production with CI/CD tools.
 
 ## 🔭 Resume and current work
 
