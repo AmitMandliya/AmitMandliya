@@ -6,7 +6,7 @@ My name is Amit Mandliya and I am a software developer. I am pursuing master's i
 
 ## 📫 How to reach me:
 
-You can find me on [![LinkedIn][1.1]][1], or email me at amitmandliya.davviet@gmail.com [<img src="gmail.png" width="15">][2]. 
+You can find me on [![LinkedIn][1.1]][1], or email me at amitmandliya.davviet@<span></span>gmail.com [<img src="gmail.png" width="15">][2]. 
 
 ## 💻 Work experience
 
