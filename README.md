@@ -10,13 +10,13 @@ I have worked as software engineer at Accenture and Infosys for over 3 years. I 
 
 ## 🔭 Resume and current work
 
-Find my resume [here](https://drive.google.com/file/d/192sfe4r_xP5JVw2-ns22hC_vT7PJv1O_/view?usp=sharing). I’m currently contributing to Red Hat's open source subscription management product - [candlepin](https://www.candlepinproject.org/docs/candlepin/overview.html). My role involves migrating the existing dependency injection framework - [Google guice](https://github.com/google/guice) to [Spring Boot](https://spring.io/projects/spring-boot). [Repository](https://github.com/AmitMandliya/candlepin/tree/feature/spring_integration).
+Find my resume [here](https://drive.google.com/file/d/192sfe4r_xP5JVw2-ns22hC_vT7PJv1O_/view?usp=sharing). I’m currently contributing to Red Hat's open source subscription management product - [candlepin](https://www.candlepinproject.org/docs/candlepin/overview.html). My role involves migrating the existing dependency injection framework - [Google guice](https://github.com/google/guice) to **[Spring Boot]**(https://spring.io/projects/spring-boot). [Repository](https://github.com/AmitMandliya/candlepin/tree/feature/spring_integration).
 
 ## 📚 Academic projects
 
 I am fortunate to work on multiple interesting projects in my graduate studies under amazing professors. Some of them are listed below:
 
-- [TouchDown](https://github.com/himol7/American-Football-Analytics-Application) A web application which analyze NC State's football match data and whow the summary visuals of the analysis. This is expected to save the football coaches 50 hours per year. The technologies used in the project were: Flask, Python, Vue, JavaScript.
+- [TouchDown](https://github.com/himol7/American-Football-Analytics-Application) A web application which analyze NC State's football match data and whow the summary visuals of the analysis. This is expected to save the football coaches 50 hours per year. The technologies used in the project were: **Flask, Python, Vue, JavaScript**.
 
 - [Movie ratings prediction](https://github.com/AmitMandliya/movie-rating-prediction) system: Developed a ratings prediction system by fetching data from open movie database and combining it with Netflix data. Selected KNN as baseline model and used stacking regression to build a model with ridge regressor, random forest regressor, and support vector regressor as estimators. The model was able to successfully predict the ratings of the movie [70%](https://github.com/AmitMandliya/movie-rating-prediction/blob/master/ALDA_Final_Project_Report.pdf) of the time with the error range of 0.8.
 
