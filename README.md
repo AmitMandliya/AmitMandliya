@@ -2,7 +2,7 @@
 
 Hey there <img src="https://github.com/AmitMandliya/AmitMandliya/blob/main/wave.gif" width="20px">
 
-My name is Amit Mandliya and I am a software developer. I am pursuing master's in computer science at North Carolina State University, Raleigh, USA. I have a passion for backend development. I have worked in several languages like Java, Python, Julia, Ruby and R. You can find me on [![LinkedIn][1.1]][1], or [<img src="gmail.png" width="20">][2]
+My name is Amit Mandliya and I am a software developer. I am pursuing master's in computer science at North Carolina State University, Raleigh, USA. I have a passion for backend development. I have worked in several languages like Java, Python, Julia, Ruby and R. You can find me on [![LinkedIn][1.1]][1], or [<img src="gmail.png" width="15">][2]
 
 I have worked as software engineer at Accenture and Infosys for over 3 years. I was a part of enterprise content management team. My role involved creating custom Java application that can interact with [OpenText products](https://www.opentext.com/products-and-solutions/products/customer-experience-management).
 
@@ -17,7 +17,7 @@ The repository can be found [here](https://github.com/AmitMandliya/candlepin/tre
 <!-- links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/amitmandliya/
-[2]: amitmandliya.davviet@gmail.com
+[2]: mailto:amitmandliya.davviet@gmail.com
 
 <!--
 **AmitMandliya/AmitMandliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
