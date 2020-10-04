@@ -45,7 +45,7 @@ I am fortunate to work on multiple interesting projects in my graduate studies u
 ![](https://img.shields.io/badge/Tools-Processing-informational?style=flat&logo=Processing&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/AmitMandliya/AmitMandliya">
+<a href="https://github.com/AmitMandliya">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmitMandliya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Amit's GitHub Stats" />
 </a>
 
