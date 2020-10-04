@@ -26,7 +26,7 @@ I am fortunate to work on multiple interesting projects in my graduate studies u
 
 - [Team Formation Assisstant](https://github.com/AmitMandliya/TeamFormationAssistant) We are currently working on building a web application which takes the project requirements, team members availability, skill level, tools preferred, etc. as input and assigns the members for the new team. The technologies used are: **Node.js, Python, Flask, React**. 
 
-- Wolfpub database: Designed a management system in MariaDB for Wolf publishing house to store, manipulate, and search books by staff members and distributors. Created an application in **Java** using **Hibernate** to perform the operations.
+- Wolfpub database: Designed a management system in **MariaDB** for Wolf publishing house to store, manipulate, and search books by staff members and distributors. Created an application in **Java** using **Hibernate** to perform the operations.
 
 - Applying [nature-inspired](https://github.com/AmitMandliya/multiple-sequence-alignment/blob/master/CSC530%20Project%20Proposal.pdf) heuristic to optimize the algorithms to solve NP Hard problems have become popular recently. One such heuristic is ant colony optimization. We are currently working on implementing this algorithm in **Julia** to solve the [multiple sequence alignment](https://en.wikipedia.org/wiki/Multiple_sequence_alignment) problem. This problem has been an important one in molecular biology.
 
