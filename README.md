@@ -16,7 +16,9 @@ Find my resume [here](https://drive.google.com/file/d/192sfe4r_xP5JVw2-ns22hC_vT
 
 I am fortunate to work on multiple interesting projects in my graduate studies under amazing professors. Some of them are listed below:
 
-- [TouchDown](https://github.com/himol7/American-Football-Analytics-Application) A web application which analyze NC State's football match data and whow the summary visuals of the analysis. This is expected to save the football coaches 50 hours per year.
+- [TouchDown](https://github.com/himol7/American-Football-Analytics-Application) A web application which analyze NC State's football match data and whow the summary visuals of the analysis. This is expected to save the football coaches 50 hours per year. The technologies used in the project were: Flask, Python, Vue, JavaScript.
+
+- [Movie ratings prediction](https://github.com/AmitMandliya/movie-rating-prediction) system: Developed a ratings prediction system by fetching data from open movie database and combining it with Netflix data. Selected KNN as baseline model and used stacking regression to build a model with ridge regressor, random forest regressor, and support vector regressor as estimators. The model was able to successfully predict the ratings of the movie [70%](https://github.com/AmitMandliya/movie-rating-prediction/blob/master/ALDA_Final_Project_Report.pdf) of the time with the error range of 0.8.
 
 - Applying [nature-inspired](https://link.springer.com/chapter/10.1007/978-3-030-16936-7_6) heuristic to optimize the algorithms to solve NP Hard problems have become popular recently. One such heuristic is ant colony optimization. We are currently working on implementing this algorithm in Julia to solve the [multiple sequence alignment](https://en.wikipedia.org/wiki/Multiple_sequence_alignment) problem. This problem has been an important one in molecular biology [Project proposal](https://github.com/AmitMandliya/multiple-sequence-alignment/blob/master/CSC530%20Project%20Proposal.pdf).
 
