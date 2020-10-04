@@ -14,7 +14,7 @@ I have worked as software engineer at Accenture and Infosys for over 3 years. I 
 
 ## 🔭 Current work
 
-I’m currently contributing to Red Hat's open source subscription management product - [candlepin](https://www.candlepinproject.org/docs/candlepin/overview.html). My role involves migrating the existing dependency injection framework - **Google guice** to **Spring Boot**. [Repository](https://github.com/AmitMandliya/candlepin/tree/feature/spring_integration).
+I’m currently contributing to Red Hat's open source subscription management product - [candlepin](https://www.candlepinproject.org/docs/candlepin/overview.html). My role involves migrating the existing dependency injection framework - **Google guice** to **Spring Boot**. [Repository](https://github.com/AmitMandliya/candlepin/tree/feature/spring_integration). The work also involves integrating various frameworks: **RESTEasy, Hibernate, Security, Authorization, Liquibase, Asynchronous Job Management** to Spring Boot, and reach the ultimate goal to create a stand-alone application easily deployable in Cloud.
 
 ## 📚 Academic projects
 
