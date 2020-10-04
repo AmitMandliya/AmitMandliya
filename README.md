@@ -10,14 +10,15 @@ I have worked as software engineer at Accenture and Infosys for over 3 years. I 
 
 ## 🔭 Resume and current work
 
-Find my resume [here](https://drive.google.com/file/d/192sfe4r_xP5JVw2-ns22hC_vT7PJv1O_/view?usp=sharing). I’m currently contributing to Red Hat's open source subscription management product - [candlepin](https://www.candlepinproject.org/docs/candlepin/overview.html). My role involves migrating the existing dependency injection framework - [Google guice](https://github.com/google/guice) to [Spring Boot](https://spring.io/projects/spring-boot). 
-The repository can be found [here](https://github.com/AmitMandliya/candlepin/tree/feature/spring_integration).
+Find my resume [here](https://drive.google.com/file/d/192sfe4r_xP5JVw2-ns22hC_vT7PJv1O_/view?usp=sharing). I’m currently contributing to Red Hat's open source subscription management product - [candlepin](https://www.candlepinproject.org/docs/candlepin/overview.html). My role involves migrating the existing dependency injection framework - [Google guice](https://github.com/google/guice) to [Spring Boot](https://spring.io/projects/spring-boot). [Repository](https://github.com/AmitMandliya/candlepin/tree/feature/spring_integration).
 
-## Academic projects
+## 📚 Academic projects
 
-I am fortunate to work on multiple interesting projects in my graduate studies:
+I am fortunate to work on multiple interesting projects in my graduate studies under amazing professors. Some of them are listed below:
 
-- Applying [nature-inspired](https://link.springer.com/chapter/10.1007/978-3-030-16936-7_6) heuristic to optimize the algorithms to solve NP Hard problems have become popular recently. One such heuristic is ant colony optimization. We are currently working on implementing this algorithm in Julia to solve the [multiple sequence alignment](https://en.wikipedia.org/wiki/Multiple_sequence_alignment) problem. This problem has been an important one in molecular biology. The project proposal can be found [here](https://github.com/AmitMandliya/multiple-sequence-alignment/blob/master/CSC530%20Project%20Proposal.pdf) 
+- [TouchDown](https://github.com/himol7/American-Football-Analytics-Application) A web application which analyze NC State's football match data and whow the summary visuals of the analysis. This is expected to save the football coaches 50 hours per year.
+
+- Applying [nature-inspired](https://link.springer.com/chapter/10.1007/978-3-030-16936-7_6) heuristic to optimize the algorithms to solve NP Hard problems have become popular recently. One such heuristic is ant colony optimization. We are currently working on implementing this algorithm in Julia to solve the [multiple sequence alignment](https://en.wikipedia.org/wiki/Multiple_sequence_alignment) problem. This problem has been an important one in molecular biology [Project proposal](https://github.com/AmitMandliya/multiple-sequence-alignment/blob/master/CSC530%20Project%20Proposal.pdf).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
