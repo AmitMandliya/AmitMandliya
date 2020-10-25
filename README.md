@@ -2,7 +2,7 @@
 
 Hey there <img src="https://github.com/AmitMandliya/AmitMandliya/blob/main/wave.gif" width="20px">
 
-My name is Amit Mandliya and I am a software developer. I am pursuing master's in computer science at North Carolina State University, Raleigh, USA. I am currently working as software engineering intern at Red Hat. I have a passion for backend development. I have worked in several languages like Java, Python, Julia, Ruby and R. Find my resume [here](https://drive.google.com/file/d/192sfe4r_xP5JVw2-ns22hC_vT7PJv1O_/view?usp=sharing).
+My name is Amit Mandliya and I am a passionate software developer (especially backend development). I will graduate with a Master's in computer science at North Carolina State University, Raleigh, NC. Currently, I working as software engineering intern at Red Hat where I am contributing to Open Source Subscription Management Tool - Candlepin. I have worked in several languages like Java, Python, Julia, Ruby and R. Find more details, find my resume [here](https://drive.google.com/file/d/192sfe4r_xP5JVw2-ns22hC_vT7PJv1O_/view?usp=sharing).
 
 ## 📫 How to reach me
 
@@ -29,6 +29,8 @@ I am fortunate to work on multiple interesting projects in my graduate studies u
 - Wolfpub database: Designed a management system in **MariaDB** for Wolf publishing house to store, manipulate, and search books by staff members and distributors. Created an application in **Java** using **Hibernate** to perform the operations.
 
 - Applying [nature-inspired](https://github.com/AmitMandliya/multiple-sequence-alignment/blob/master/CSC530%20Project%20Proposal.pdf) heuristic to optimize the algorithms to solve NP Hard problems have become popular recently. One such heuristic is ant colony optimization. We are currently working on implementing this algorithm in **Julia** to solve the [multiple sequence alignment](https://en.wikipedia.org/wiki/Multiple_sequence_alignment) problem. This problem has been an important one in molecular biology.
+
+- Socket programming: Implemented a peer-to-peer (P2P) system with a centralized index (CI). The idea is to develop a file-sharing system over TCP. Peers can join a system and inform server about the files it has and also download the files from other peers who has joined the system. The technologies used are: **Java, Socket Programming, Multithreading**.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
