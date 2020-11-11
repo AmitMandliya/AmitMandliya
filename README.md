@@ -2,7 +2,7 @@
 
 Hey there <img src="https://github.com/AmitMandliya/AmitMandliya/blob/main/wave.gif" width="20px">
 
-My name is Amit Mandliya and I am a passionate software developer (especially backend development). I will graduate with a Master's in computer science at North Carolina State University, Raleigh, NC. Currently, I working as software engineering intern at Red Hat where I am contributing to Open Source Subscription Management Tool - Candlepin. I have worked in several languages like Java, Python, Julia, Ruby and R. Find more details, find my resume [here](https://drive.google.com/file/d/1enTlUn2arf_VViA39BlHWB117_D2l2bd/view?usp=sharing).
+My name is Amit Mandliya and I am a passionate software developer (especially backend development). I will graduate with Master's in Computer Science from North Carolina State University, Raleigh in May 2021. Currently, I am working as software engineering intern at Red Hat where I am contributing to Open Source Subscription Management Tool - Candlepin. I have worked in several languages like Java, Python, Julia, Ruby and R. Find more details, find my resume [here](https://drive.google.com/file/d/1enTlUn2arf_VViA39BlHWB117_D2l2bd/view?usp=sharing).
 
 ## 📫 How to reach me
 
