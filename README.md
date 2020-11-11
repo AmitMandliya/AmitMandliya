@@ -10,7 +10,7 @@ You can find me on [![LinkedIn][1.1]][1], or email me at amitmandliya.davviet@<s
 
 ## 💻 Work experience
 
-I have worked as software engineer at Accenture and Infosys for over 3 years. I was a part of enterprise content management team. My role involved creating custom **Java** applications that can interact with [OpenText products](https://www.opentext.com/products-and-solutions/products/customer-experience-management), and develop StreamServe applications for business communication solutions. I have worked with utilities industry clients based in North America and Netherlands. My role involved gathering requirements from client, develop the system and into production with CI/CD tools. I was also responsible for handling the high priority production issues.
+I have worked as software engineer at Accenture and Infosys for over 3 years. I was a part of enterprise content management team. My role involved creating custom **Java** applications that can interact with [OpenText products](https://www.opentext.com/products-and-solutions/products/customer-experience-management), and develop StreamServe applications for business communication solutions. I have worked with utilities industry clients based in North America and Netherlands. My role involved gathering requirements from client, develop the system and deploy into production with CI/CD tools. I was also responsible for handling the high priority production issues with a resolution time of 90 minutes.
 
 ## 🔭 Current work
 
